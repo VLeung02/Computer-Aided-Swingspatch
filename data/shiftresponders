@@ -1,0 +1,35 @@
+{"All Responders: ": [
+    {
+        "Status": true,
+        "Reporting Party": "none",
+        "Unit Type": "Fire",
+        "Call Address": "none",
+        "Unit Number": 123,
+        "Call Number": -1,
+        "Call Type": "none",
+        "Unit Status": true,
+        "Current Call": "model.CallForService@6c770f4"
+    },
+    {
+        "Status": true,
+        "Reporting Party": "none",
+        "Unit Type": "Police",
+        "Call Address": "none",
+        "Unit Number": 12,
+        "Call Number": -1,
+        "Call Type": "none",
+        "Unit Status": true,
+        "Current Call": "model.CallForService@2eaf5de4"
+    },
+    {
+        "Status": true,
+        "Reporting Party": "none",
+        "Unit Type": "Police",
+        "Call Address": "none",
+        "Unit Number": 1,
+        "Call Number": -1,
+        "Call Type": "none",
+        "Unit Status": true,
+        "Current Call": "model.CallForService@16f52b93"
+    }
+]}

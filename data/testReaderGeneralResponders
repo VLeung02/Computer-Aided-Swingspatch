@@ -1,0 +1,35 @@
+{"All Responders: ": [
+  {
+    "Status": false,
+    "Reporting Party": "billy",
+    "Unit Type": "Fire",
+    "Call Address": "here",
+    "Unit Number": 5,
+    "Call Number": 2,
+    "Call Type": "police needed",
+    "Unit Status": true,
+    "Current Call": "model.CallForService@30b8a058"
+  },
+  {
+    "Status": false,
+    "Reporting Party": "billy",
+    "Unit Type": "Fire",
+    "Call Address": "here",
+    "Unit Number": 6,
+    "Call Number": 2,
+    "Call Type": "police needed",
+    "Unit Status": false,
+    "Current Call": "model.CallForService@30b8a058"
+  },
+  {
+    "Status": false,
+    "Reporting Party": "billy",
+    "Unit Type": "Fire",
+    "Call Address": "here",
+    "Unit Number": 7,
+    "Call Number": 2,
+    "Call Type": "police needed",
+    "Unit Status": false,
+    "Current Call": "model.CallForService@30b8a058"
+  }
+]}
